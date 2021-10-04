@@ -33,7 +33,7 @@ _set_bot () {
     PYTHONPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  PythonBot V2.1 Cleaning.."
+    echo "  PythonBot V9.0.8 Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $PYTHONPATH
