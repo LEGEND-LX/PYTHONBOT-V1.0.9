@@ -42,6 +42,7 @@
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
 [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://dashboard.heroku.com/new?button-url=https://github.com/LEGEND-LX/PYTHONBOT-V1.0.9)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
 
 
 
