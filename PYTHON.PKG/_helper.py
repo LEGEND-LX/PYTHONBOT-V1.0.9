@@ -5,7 +5,7 @@ import requests
 from telethon import functions
 
 from userbot import ALIVE_NAME, CMD_LIST, SUDO_LIST
-from PYTHONBOT.utils import admin_cmd, edit_or_reply, sudo_cmd
+from PYTHONBOT-V1.0.9.utils import admin_cmd, edit_or_reply, sudo_cmd
 
 
 @bot.on(admin_cmd(pattern="python ?(.*)", outgoing=True))
