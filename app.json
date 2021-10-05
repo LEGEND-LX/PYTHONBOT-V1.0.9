@@ -131,8 +131,8 @@
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
-    "LEGEND_STRING": {
-      "description": "Get this value by running  ",
+    "PYTHONBOT_STRING": {
+      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
