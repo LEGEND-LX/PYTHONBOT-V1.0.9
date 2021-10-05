@@ -97,8 +97,3 @@ async def info(event):
             string += " "
             PYTHONcount += 1
         await event.reply(string.format(count=PYTHONcount), parse_mode="HTML")
-        
-
-        
-    
-       
