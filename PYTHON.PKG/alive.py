@@ -2,7 +2,7 @@ import time
 
 from telethon import version
 from userbot import ALIVE_NAME, StartTime, PYTHONversion
-from PYTHONBOT.utils import admin_cmd, edit_or_reply, sudo_cmd
+from PYTHONBOT-V1.0.9.utils import admin_cmd, edit_or_reply, sudo_cmd
 from userbot.cmdhelp import CmdHelp
 
 async def reply_id(event):
