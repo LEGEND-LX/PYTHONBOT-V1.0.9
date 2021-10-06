@@ -1,6 +1,6 @@
 {
   "name": "Îtß Pythonẞø† 🇮🇳",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ †hê~Lêɠêɳ̃dẞøY Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/cfc1ba8da5fd7ab02fa7d.jpg",
     "keywords": [
     "telegram",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "success_url": "https://t.me/Python_userbot_Support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "†hê~Lêɠêɳ̃dẞøY 🇮🇳",
+      "value": "†hê~legend-lx 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "Pythonẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
       "required": false
     },
     "ABUSE": {
@@ -39,7 +39,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@Python_Userbot_Support",
       "required": false
     },
     "YOUR_CHANNEL": {
@@ -69,7 +69,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃dẞø✞︎ @Legend_Userbot",
+      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Python_Userbot_Support",
       "required": true
     },
     "PM_PIC": {
@@ -79,7 +79,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ Pythonẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
